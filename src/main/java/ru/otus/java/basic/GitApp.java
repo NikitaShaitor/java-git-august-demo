@@ -10,7 +10,7 @@ public class GitApp {
         int sumResult = sumA + sumB;
         System.out.println(sumA + " + " + sumB + " = " + sumResult);
 
-        System.out.println("Вычитание");
+        System.out.println("Задача вычитания");
         int subtrackA = 10;
         int subtrackB = 20;
         int subtrackResult = subtrackB - subtrackA;
