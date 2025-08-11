@@ -4,7 +4,7 @@ public class GitApp {
     public static void main(String[] args) {
         System.out.println("Калькулятор: Начало");
 
-        System.out.println("Суммирование");
+        System.out.println("Задача суммирования");
         int sumA = 1;
         int sumB = 2;
         int sumResult = sumA + sumB;
